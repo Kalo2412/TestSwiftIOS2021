@@ -137,11 +137,7 @@ for i in 0...4{ // 0...4 includes bounds / 0..<4 excludes upper bound
     total += i
 }
 
-//print(total)
 
-//functions and closures
-
-//dmsfjobwsojds
 
 
 
